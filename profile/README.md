@@ -9,3 +9,5 @@ At Exquis, we are looking forward to create quality scripts for the FiveM commun
 
 ## Discord
 <p><a href="https://discord.gg/3TR3M54tng"><img src="https://img.shields.io/discord/1014059200508346398?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=EXQUIS"/></a></p>
+
+Join our Discord, For FiveM based support or other requirements.
