@@ -3,7 +3,7 @@ At the Exquis, we are looking forward to create quality scripts for the FiveM co
 
 ## Our Team
 
-<div align="center">
+<div align="left">
         <a href="https://ko-fi.com/theexquis"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=tony-stark-17&show_icons=true&theme=onedark"/></a>
 </div>
 
