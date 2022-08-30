@@ -1,5 +1,5 @@
 ## About Us
-At the Exquis, we are looking forward to create quality scripts for the FiveM community.
+At Exquis, we are looking forward to create quality scripts for the FiveM community.
 
 ## Our Team
 
