@@ -1,5 +1,3 @@
-<iframe id='kofiframe' src='https://ko-fi.com/theexquis/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='theexquis'></iframe>
-
 ## About Us
 At Exquis, we are looking forward to create quality scripts for the FiveM community.
 
